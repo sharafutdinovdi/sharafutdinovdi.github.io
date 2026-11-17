@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sharafutdinovdi.github.io/revit-model-mcp/sitemap.xml
